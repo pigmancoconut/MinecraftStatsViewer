@@ -1,0 +1,4 @@
+name: MinecraftStatsViewer
+version: '${project.version}'
+main: de.minecraftstatsviewer.MinecraftStatsViewer
+api-version: 1.20
